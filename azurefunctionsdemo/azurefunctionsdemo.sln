@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29519.161
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "azurefunctionsdemo.httptrigger", "azurefunctionsdemo.httptrigger\azurefunctionsdemo.httptrigger.csproj", "{425989A9-0DC9-4EDA-B389-12D444882F8A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "azurefunctionsdemo.durablefunctions", "azurefunctionsdemo.durablefunctions\azurefunctionsdemo.durablefunctions.csproj", "{F493E74F-4CF8-4F75-8658-E3E1D6D0D37F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{425989A9-0DC9-4EDA-B389-12D444882F8A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{425989A9-0DC9-4EDA-B389-12D444882F8A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{425989A9-0DC9-4EDA-B389-12D444882F8A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{425989A9-0DC9-4EDA-B389-12D444882F8A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F493E74F-4CF8-4F75-8658-E3E1D6D0D37F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F493E74F-4CF8-4F75-8658-E3E1D6D0D37F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F493E74F-4CF8-4F75-8658-E3E1D6D0D37F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F493E74F-4CF8-4F75-8658-E3E1D6D0D37F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {10D0F49A-2AE1-4459-8A2C-C1ECFD19624D}
+	EndGlobalSection
+EndGlobal
